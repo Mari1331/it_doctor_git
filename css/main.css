@@ -1,3 +1,10 @@
 body {
   background-color: #2e13a7;
 }
+h1 {
+  font-style: italic;
+  font-size: 50px;
+}
+p {
+  color: red;
+}
